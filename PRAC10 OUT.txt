@@ -1,0 +1,5 @@
+enter a number: 110101
+binary to decimal
+53
+decimal to binary
+110101
